@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:42:02.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xThizexEMUJEYCfBh8x6" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T09:42:47.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ACVlxz60g4emiDDls_Kn" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,11 +77,14 @@
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-8" value="而之前的&amp;nbsp;&lt;b&gt;&lt;i&gt;跨中心的彩色医学图像&amp;nbsp;&lt;/i&gt;&lt;/b&gt;数据增强方法需要其他域的信息。为此，我们希望基于常用的傅里叶变换，设计一种能够在单源域下进行的&lt;b style=&quot;font-style: italic;&quot;&gt;彩色医学图像&lt;/b&gt;数据增强方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="660" width="309.85" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="u22NzilWjhtLQ6Hzgs4L-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6a-3rRkNYd-cF_ZGWK3o-16" target="6a-3rRkNYd-cF_ZGWK3o-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-16" value="对源域图像进行增强之后，由于模拟的是跨中心下的数据增强，增强图像间的域差异有限，如果只是将这些图像输入到网络进行训练，那么网络很可能学习到Domain-shared特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="153.94" y="780" width="282.61" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-19" value="&lt;b style=&quot;font-style: italic;&quot;&gt;Domain-shared&amp;nbsp;&lt;/b&gt;即已知域的共同特征，并不是对于所有域的共同特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="785" width="120" height="60" as="geometry" />
+        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-19" value="&lt;b style=&quot;font-style: italic;&quot;&gt;Domain-shared&amp;nbsp;&lt;/b&gt;即已知域的共同特征，并不是对于所有域的共同特征，这可能导致遇到某些未知域时这些特征会失效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="776.25" width="180" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

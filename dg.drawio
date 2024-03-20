@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:01:27.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="canvC8g9VC2gQCcWjAVN" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T10:02:57.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fBOAs_9jF2mf_0bqYsW6" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="610" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,7 +83,7 @@
         <mxCell id="zbKeJaY4Yf2kd95y40e--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6a-3rRkNYd-cF_ZGWK3o-16" target="zbKeJaY4Yf2kd95y40e--1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-16" value="对源域图像进行增强之后，由于模拟的是跨中心下的数据增强，增强图像间的域差异有限，如果只是将这些图像输入到网络进行训练，那么网络很可能学习到Domain-shared特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-16" value="对源域图像进行增强之后，由于模拟跨中心下的数据增强，增强图像间的域偏移有限，如果只是将这些图像输入到网络进行训练，那么网络很可能学习到Domain-shared特征" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="153.94" y="780" width="282.61" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-19" value="&lt;b style=&quot;font-style: italic;&quot;&gt;Domain-shared&amp;nbsp;&lt;/b&gt;即已知域的共同特征，并不是对于所有域的共同特征，这可能导致遇到某些未知域时这些特征会失效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -110,6 +110,9 @@
         </mxCell>
         <mxCell id="zbKeJaY4Yf2kd95y40e--6" value="Feature Sensitivity Guidance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413" y="982.5" width="113.45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zbKeJaY4Yf2kd95y40e--8" value="从特征的通道层面进行学习，判断特征通道对于域偏移的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="574.9300000000001" y="975" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

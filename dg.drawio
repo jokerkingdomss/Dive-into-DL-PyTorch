@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T09:14:27.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="5ZeAj9ZKJ5w5lLC--zgT" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T09:37:07.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="A6k-PUt_On7pUF0px_wX" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-16" value="对源域图像进行增强之后，由于模拟的是跨中心下的数据增强，增强图像间的域差异有限，如果只是将这些图像输入到网络进行训练，那么网络很可能学习到Domain-shared特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="153.94" y="780" width="282.61" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="785" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:14:29.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IiFkUWykYiak5ZZkmOJK" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T10:18:37.676Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="V93p3T7TI5attqnnguZg" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="869" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,6 +89,9 @@
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-19" value="&lt;b style=&quot;font-style: italic;&quot;&gt;Domain-shared&amp;nbsp;&lt;/b&gt;即已知域的共同特征，并不是对于所有域的共同特征，这可能导致遇到某些未知域时这些特征会失效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="776.25" width="180" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="zbKeJaY4Yf2kd95y40e--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbKeJaY4Yf2kd95y40e--1" target="zbKeJaY4Yf2kd95y40e--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zbKeJaY4Yf2kd95y40e--1" value="因此，需要显式引导网络对域不变特征的学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222.39000000000001" y="890" width="145.07" height="50" as="geometry" />
         </mxCell>
@@ -99,17 +102,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zbKeJaY4Yf2kd95y40e--10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbKeJaY4Yf2kd95y40e--4" target="zbKeJaY4Yf2kd95y40e--8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zbKeJaY4Yf2kd95y40e--4" value="采用一种简单有效的方法进行域不变特征的学习，即 Feature Sensitivity Guidance&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1071.25" width="142.29" height="70" as="geometry" />
+          <mxGeometry x="225.45000000000002" y="1099" width="142.29" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zbKeJaY4Yf2kd95y40e--8" value="从特征的通道层面进行学习，判断特征通道对于域偏移的敏感程度。抑制对域偏移敏感的通道，增强对域偏移不敏感的通道。&lt;div&gt;这在之前的工作中被证明是有效的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="356.22" y="1070" width="240" height="72.5" as="geometry" />
-        </mxCell>
-        <mxCell id="zbKeJaY4Yf2kd95y40e--11" value="之前的单源域泛化工作中，从特征的通道层面进行学习，判断特征通道对于域偏移的敏感程度。抑制对域偏移敏感的通道，增强对域偏移不敏感的通道。&lt;div&gt;这在之前的工作中被证明是有效的&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="970" width="350" height="80" as="geometry" />
+        <mxCell id="zbKeJaY4Yf2kd95y40e--11" value="有方法从特征的通道层面进行域不变特征的学习。它们将原始图像和经过普通增强后的图像送入网络，并比较浅层特征的差异性，以此来&lt;span style=&quot;background-color: initial;&quot;&gt;判断特征通道对于域偏移的敏感程度。然后抑制对域偏移敏感的通道，增强对域偏移不敏感的通道。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;这中方法在之前的工作中被证明是有效的。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140.43" y="970" width="309.63" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

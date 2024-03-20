@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T08:35:44.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="rbijE6ZUeRvw2oBKNr1h" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T08:40:35.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gqiA0mYWzw6e78bFbFyg" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="458.75" y="500" width="207.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-3" value="对于通常是跨中心的彩色医学图像来说，如眼底图像，这些单源域的数据增强方法并不适用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="454.38" y="590" width="216.25" height="50" as="geometry" />
+          <mxGeometry x="454.38" y="590" width="215.62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-5" value="对于跨中心的彩色医学图像，如眼底图像，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="520" width="180" height="50" as="geometry" />

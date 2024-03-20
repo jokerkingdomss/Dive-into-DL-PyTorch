@@ -1,50 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T07:13:49.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="b0OfgwF30npdhqDDDej2" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T08:23:30.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZR72kuQp4KkKbjUwldmW" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
-    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vQjxIirA9bA-XjDeCSao-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ax9DC1ABo2JLW3Br6AjF-1" target="vQjxIirA9bA-XjDeCSao-1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Ax9DC1ABo2JLW3Br6AjF-1" target="vQjxIirA9bA-XjDeCSao-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ax9DC1ABo2JLW3Br6AjF-1" value="医学图像域偏移现象很常见" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-1" target="vQjxIirA9bA-XjDeCSao-3">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vQjxIirA9bA-XjDeCSao-1" target="vQjxIirA9bA-XjDeCSao-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-1" target="vQjxIirA9bA-XjDeCSao-5">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="vQjxIirA9bA-XjDeCSao-1" target="vQjxIirA9bA-XjDeCSao-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-1" value="域适应工作出现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-1" value="域适应工作出现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="255" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-3" target="vQjxIirA9bA-XjDeCSao-8">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vQjxIirA9bA-XjDeCSao-3" target="vQjxIirA9bA-XjDeCSao-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-3" target="vQjxIirA9bA-XjDeCSao-10">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vQjxIirA9bA-XjDeCSao-3" target="vQjxIirA9bA-XjDeCSao-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-3" value="域泛化工作，旨在使用已有域数据，训练模型用于未知域" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-3" value="域泛化工作，旨在使用已有域数据，训练模型用于未知域" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="320" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-5" value="域适应需要目标域的数据，我们经常无法去获取目标域的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-5" value="域适应需要目标域的数据，我们经常无法去获取目标域的数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-8" value="传统域泛化工作通常使用来自多个域的数据进行模型训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-8" value="传统域泛化工作通常使用来自多个域的数据进行模型训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="325" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-10" target="vQjxIirA9bA-XjDeCSao-12">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vQjxIirA9bA-XjDeCSao-10" target="vQjxIirA9bA-XjDeCSao-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-10" value="衍生出单源域泛化工作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-10" value="衍生出单源域泛化工作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="420" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-12" value="在单源域泛化工作中，数据增强是最常用的方法，尤其是对于医学图像来说" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-12" target="vQjxIirA9bA-XjDeCSao-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQjxIirA9bA-XjDeCSao-12" value="在单源域泛化工作中，数据增强是最常用的方法，尤其是对于医学图像来说" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="410" width="145" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-15" value="但是大多数数据增强方法都基于跨模态的医学图像泛化进行设计，如MRI和CT这种灰度图像之间的泛化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402.5" y="490" width="200" height="60" as="geometry" />
+        <mxCell id="vQjxIirA9bA-XjDeCSao-15" value="但是大多数数据增强方法都是针对&lt;b&gt;跨模态&lt;/b&gt;的医学图像的泛化进行设计，如MRI和CT这种灰度图像之间的泛化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="405" width="207.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

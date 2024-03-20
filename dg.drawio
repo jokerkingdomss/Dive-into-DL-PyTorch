@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T08:25:00.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="y18f72S07xTbRcExgcWL" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T08:25:31.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IVdAHRWsK4iOSpOh5rU2" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,13 +31,13 @@
         <mxCell id="vQjxIirA9bA-XjDeCSao-5" value="域适应需要目标域的数据，我们经常无法去获取目标域的数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-8" value="传统域泛化工作通常使用来自多个域的数据进行模型训练" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="325" width="110" height="50" as="geometry" />
+        <mxCell id="vQjxIirA9bA-XjDeCSao-8" value="传统域泛化工作通常使用来自多个域的数据进行模型训练，这有时候难以做到" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="325" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vQjxIirA9bA-XjDeCSao-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vQjxIirA9bA-XjDeCSao-10" target="vQjxIirA9bA-XjDeCSao-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-10" value="衍生出单源域泛化工作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-10" value="单源域泛化工作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="420" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-12" target="vQjxIirA9bA-XjDeCSao-15">

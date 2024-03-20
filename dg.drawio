@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T06:34:53.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FdEZN3FtFrveYrFAFxrk" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T06:47:51.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ELty7tPs3_FT3gxXfUgt" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,23 @@
         <mxCell id="Ax9DC1ABo2JLW3Br6AjF-1" value="医学图像域偏移现象很常见" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="170" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="vQjxIirA9bA-XjDeCSao-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-1" target="vQjxIirA9bA-XjDeCSao-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vQjxIirA9bA-XjDeCSao-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-1" target="vQjxIirA9bA-XjDeCSao-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vQjxIirA9bA-XjDeCSao-1" value="域适应工作出现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="270" width="120" height="30" as="geometry" />
+          <mxGeometry x="230" y="255" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQjxIirA9bA-XjDeCSao-3" value="域泛化工作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vQjxIirA9bA-XjDeCSao-5" value="域适应需要目标域的数据，我们经常无法去获取目标域的数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vQjxIirA9bA-XjDeCSao-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

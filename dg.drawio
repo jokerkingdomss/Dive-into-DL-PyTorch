@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:00:21.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="eVjT5YT-OcZnRZAfIbbX" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T10:01:00.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3et7I6M4ua5ttnSNrZGu" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
-    <mxGraphModel dx="819" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,6 +89,9 @@
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-19" value="&lt;b style=&quot;font-style: italic;&quot;&gt;Domain-shared&amp;nbsp;&lt;/b&gt;即已知域的共同特征，并不是对于所有域的共同特征，这可能导致遇到某些未知域时这些特征会失效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="776.25" width="180" height="77.5" as="geometry" />
         </mxCell>
+        <mxCell id="zbKeJaY4Yf2kd95y40e--5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zbKeJaY4Yf2kd95y40e--1" target="zbKeJaY4Yf2kd95y40e--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zbKeJaY4Yf2kd95y40e--1" value="因此，需要显式引导网络对域不变特征的学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="222.39000000000001" y="890" width="145.07" height="50" as="geometry" />
         </mxCell>
@@ -98,6 +101,9 @@
               <mxPoint x="590" y="912" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zbKeJaY4Yf2kd95y40e--4" value="采用一种简单有效的方法进行域不变特征的学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="227.71" y="980" width="135.07" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

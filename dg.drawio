@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T10:20:18.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gVEUl3unaWeDkTpqY6Oy" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T10:20:59.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qpHHlGB4GdSCcGmLA5Tl" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="869" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
         <mxCell id="zbKeJaY4Yf2kd95y40e--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zbKeJaY4Yf2kd95y40e--11" target="zbKeJaY4Yf2kd95y40e--4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zbKeJaY4Yf2kd95y40e--11" value="之前有单源域泛化方法从特征的通道层面进行域不变特征的学习。它们将原始图像和经过普通增强后的图像送入网络，并比较浅层特征的差异性，以此来&lt;span style=&quot;background-color: initial;&quot;&gt;判断特征通道对于域偏移的敏感程度。然后抑制对域偏移敏感的通道，增强对域偏移不敏感的通道。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;这中方法在之前的工作中被证明是有效的。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zbKeJaY4Yf2kd95y40e--11" value="之前有单源域泛化方法从特征的通道层面进行域不变特征的学习。将原始图像和经过普通增强后的图像送入网络，并比较浅层特征的差异性，以此来&lt;span style=&quot;background-color: initial;&quot;&gt;判断特征通道对于域偏移的敏感程度。然后抑制对域偏移敏感的通道，增强对域偏移不敏感的通道。&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;这类方法被证明是有效的。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115.46000000000001" y="970" width="359.57" height="90" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T08:47:43.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="9Hu3THOYaHcq3R1ZlGVI" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T08:48:03.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_7A1Ponz3BknsF1wlOpi" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vQjxIirA9bA-XjDeCSao-15" target="6a-3rRkNYd-cF_ZGWK3o-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vQjxIirA9bA-XjDeCSao-15" value="但是大多数数据增强方法都是针对&lt;i&gt;&lt;b&gt;跨模态的医学图像&lt;/b&gt;&lt;/i&gt;的泛化进行设计，如MRI和CT这种灰度图像之间的泛化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vQjxIirA9bA-XjDeCSao-15" value="但是大多数数据增强方法都是针对&amp;nbsp;&lt;i&gt;&lt;b&gt;跨模态的医学图像&amp;nbsp;&lt;/b&gt;&lt;/i&gt;的泛化进行设计，如MRI和CT这种灰度图像之间的泛化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="186.56" y="580" width="207.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6a-3rRkNYd-cF_ZGWK3o-3" target="6a-3rRkNYd-cF_ZGWK3o-5">
@@ -58,7 +58,7 @@
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6a-3rRkNYd-cF_ZGWK3o-3" target="6a-3rRkNYd-cF_ZGWK3o-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-3" value="对于通常是&lt;b&gt;&lt;i&gt;跨中心的彩色医学图像&lt;/i&gt;&lt;/b&gt;来说，如眼底图像，这些单源域的数据增强方法并不适用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-3" value="对于通常是&amp;nbsp;&lt;b&gt;&lt;i&gt;跨中心的彩色医学图像&amp;nbsp;&lt;/i&gt;&lt;/b&gt;来说，如眼底图像，这些单源域的数据增强方法并不适用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="182.19" y="670" width="215.62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6a-3rRkNYd-cF_ZGWK3o-5" target="6a-3rRkNYd-cF_ZGWK3o-8">

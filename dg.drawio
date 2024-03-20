@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T08:45:43.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fzodR7R6CVU45Q-HyhfK" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T08:45:53.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QO70_vJuRmY1HIXAs5QR" version="24.0.7" type="github">
   <diagram name="第 1 页" id="c-j58rz6KxYzb0M7mw4W">
     <mxGraphModel dx="989" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="6a-3rRkNYd-cF_ZGWK3o-5" value="对于跨中心的彩色医学图像，如眼底图像，现在最常见的增强方法是通过傅里叶变换交换来自不同域图像的Amplitutde" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="580" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-8" value="然而这种方法需要需要其他域的信息。为此，我们希望基于傅里叶变换方法，设计一种能够在单源域下进行的&lt;b style=&quot;font-style: italic;&quot;&gt;彩色医学图像&lt;/b&gt;数据增强方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6a-3rRkNYd-cF_ZGWK3o-8" value="这种方法需要需要其他域的信息。为此，我们希望基于傅里叶变换方法，设计一种能够在单源域下进行的&lt;b style=&quot;font-style: italic;&quot;&gt;彩色医学图像&lt;/b&gt;数据增强方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="710" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
